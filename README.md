@@ -53,6 +53,3 @@ react-native start
 > * 其它功能的开发。
 > * 有什么好的想法，来issue告诉我吧~~
 
-## License
-
-Apache License 2.0
