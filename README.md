@@ -12,7 +12,7 @@ IOS（unknown）
 
 ## Screenshot
 ![toiletReading_Splash](./screenshot/1.png) ![toiletReading_Reading](./screenshot/2.png)
-![toiletReading_News](./screenshot/3r.png) ![toiletReading_Article](./screenshot/4.jpg)
+![toiletReading_News](./screenshot/3.png) ![toiletReading_Article](./screenshot/4.png)
 
 
 ## Download
