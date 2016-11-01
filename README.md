@@ -20,6 +20,12 @@ IOS（unknown）
 not available now
 
 
+## Attension！
+> * 由于gradle版本问题产生的bug，我更改了gradle版本为gradle-2.14.1-all，目录为android/gradle/wrapper/gradle-wrapper.properties。同时我更改了com.android.tools.build:gradle:2.2.2，目录为android/build.gradle。
+> * gradle下载可能会有网络问题，建议预先下载gradle-2.14.1-all.zip文件并置于android/gradle/wrapper/目录下，同时将android/gradle/wrapper/gradle-wrapper.properties中的distributionUrl=...改为distributionUrl=gradle-2.14.1-all.zip
+> * （摊手
+
+
 ## Development Workflow
 
 ### Step One
