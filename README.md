@@ -16,9 +16,8 @@ IOS（unknown）
 
 
 ## Download
-
-not available now
-
+[豌豆荚](http://www.wandoujia.com/apps/com.toiletreading) 
+应用宝：需要互联网《 互联网新闻信息服务许可证 》才能上线。。一脸懵比。。 
 
 ## Attension！
 > * 由于gradle版本问题产生的bug，我更改了gradle版本为gradle-2.14.1-all，目录为android/gradle/wrapper/gradle-wrapper.properties。同时我更改了com.android.tools.build:gradle:2.2.2，目录为android/build.gradle。
@@ -41,7 +40,8 @@ npm install
 ### Step Three
 
 ```
-react-native start
+react-native start  
+react-native run-android
 ```
 
 
