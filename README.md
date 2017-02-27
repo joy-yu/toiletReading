@@ -17,7 +17,8 @@ IOS（unknown）
 
 ## Download
 [豌豆荚](http://www.wandoujia.com/apps/com.toiletreading) 
-应用宝：需要互联网《 互联网新闻信息服务许可证 》才能上线。。一脸懵比。。 
+应用宝：未上线，因为有头条震惊部，需要互联网《 互联网新闻信息服务许可证 》才能上线。。 
+豌豆荚合并到了阿里，现在呢。。没法上线了。。我好菜啊。。  
 
 ## Attension！
 > * 由于gradle版本问题产生的bug，我更改了gradle版本为gradle-2.14.1-all，目录为android/gradle/wrapper/gradle-wrapper.properties。同时我更改了com.android.tools.build:gradle:2.2.2，目录为android/build.gradle。
