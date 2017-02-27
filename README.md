@@ -16,8 +16,8 @@ IOS（unknown）
 
 
 ## Download
-[豌豆荚](http://www.wandoujia.com/apps/com.toiletreading) 
-应用宝：未上线，因为有头条震惊部，需要互联网《 互联网新闻信息服务许可证 》才能上线。。 
+[豌豆荚](http://www.wandoujia.com/apps/com.toiletreading)  
+应用宝：未上线，因为有头条震惊部，需要互联网《 互联网新闻信息服务许可证 》才能上线。。  
 豌豆荚合并到了阿里，现在呢。。没法上线了。。我好菜啊。。  
 
 ## Attension！
