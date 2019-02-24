@@ -2,7 +2,7 @@
 
 ![toiletReading_Logo](./logo.png)
 
-Write in React-Native,and need more study. （拉屎的时候随便看看···
+**[Deprecated]** 偶尔回来瞥一眼看看以前写的破玩意...
 
 **Support:**
 
